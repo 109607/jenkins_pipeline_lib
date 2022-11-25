@@ -1,3 +1,3 @@
 def call(String version){
-   sh " echo $version"
+   sh " echo "the version is $version"
 }
